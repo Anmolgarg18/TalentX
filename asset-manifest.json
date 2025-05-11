@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/talenX/static/css/main.a6ecbbaa.css",
+    "main.js": "/talenX/static/js/main.46b449d4.js",
+    "static/js/453.1c889680.chunk.js": "/talenX/static/js/453.1c889680.chunk.js",
+    "static/media/KoPubBatang-Bold.ttf": "/talenX/static/media/KoPubBatang-Bold.4c97c3dfbc1be034e791.ttf",
+    "static/media/KoPubBatang-Regular.ttf": "/talenX/static/media/KoPubBatang-Regular.df55160607ad187954c5.ttf",
+    "static/media/banner1.png": "/talenX/static/media/banner1.ef7b73457206a7dad78a.png",
+    "static/media/banner3.png": "/talenX/static/media/banner3.204b1986adb15d286b8a.png",
+    "static/media/banner2.png": "/talenX/static/media/banner2.91e1cb0cf053ac00e8a4.png",
+    "static/media/image2.png": "/talenX/static/media/image2.fefc7d028d2b909bb4c5.png",
+    "static/media/gut.png": "/talenX/static/media/gut.d060a9520b935e505b61.png",
+    "static/media/card3.png": "/talenX/static/media/card3.470e6abf23302ffd206c.png",
+    "static/media/card4.png": "/talenX/static/media/card4.c07289461e0b2f8fd36a.png",
+    "static/media/card1.png": "/talenX/static/media/card1.7ccfaa23da2fb73cd006.png",
+    "static/media/card2.png": "/talenX/static/media/card2.de37c9b64deb9290ec92.png",
+    "static/media/slick.svg": "/talenX/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/talenX/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/talenX/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/talenX/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/talenX/index.html",
+    "main.a6ecbbaa.css.map": "/talenX/static/css/main.a6ecbbaa.css.map",
+    "main.46b449d4.js.map": "/talenX/static/js/main.46b449d4.js.map",
+    "453.1c889680.chunk.js.map": "/talenX/static/js/453.1c889680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ecbbaa.css",
+    "static/js/main.46b449d4.js"
+  ]
+}
