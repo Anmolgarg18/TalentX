@@ -87,7 +87,7 @@ export const Home = () => {
             <h1 className="font-inriaserif text-[30px] sm:text-[45px] md:text-[60px] lg:text-[60px] xl:text-[60px]  lg:underline-offset-[35px] leading-tight">
               {banner.head}
             </h1>
-            <p className="font-inriaserif text-[16px] sm:text-[20px] md:text-[25px] lg:text-[30px] xl:text-[32px] leading-[1.3] w-[85%] md:w-[70%] 2xl:w-[53%] w-full mt-4 sm:mt-6">
+            <p className="font-inriaserif text-[16px] sm:text-[20px] md:text-[25px] lg:text-[30px] xl:text-[32px] leading-[1.3] w-[85%] md:w-[50%] 2xl:w-[53%] w-full mt-4 sm:mt-6">
               {banner.text}
             </p>
           </div>
@@ -225,16 +225,17 @@ export const Home = () => {
 
 
 {/* section 6 */}
+
 <div className="w-full bg-white py-[80px] font-inriaserif">
   <div className='w-[90%] mx-auto'>
     <h2 className="text-2xl md:text-[48px] font-bold text-black mb-6 text-center">Our Vision</h2>
-  <div className="relative text-center">
+  <div className="relative text-left">
     {/* Opening Quote */}
     
-     <span className="text-[80px] text-black   font-extrablack">“</span> <br/>
-    <p className="font-bold text-black  text-[18px] md:text-[20px] leading-relaxed font-medium mt-[-50px]">
+     <span className="text-[80px] ms-[3%] lg:ms-[7%] text-black font-extrablack ">“</span> <br/>
+    <p className="font-bold text-black  text-[18px] md:text-[20px] leading-relaxed font-medium mt-[-50px] text-center w-[90%] mx-auto">
       We believe learning happens when organizations actively listen to their environment—gathering data, extracting insights, and evolving their strategies.<br/>  
-At the core of this transformation lies adaptive capability. <span className="text-[80px] text-black ps-2 mt-[-10px] font-extrablack absolute">”</span></p>
+At the core of this transformation lies adaptive capability. <span className="text-[80px] text-black ps-2  font-extrablack absolute">”</span></p>
  
 
  
@@ -243,6 +244,7 @@ At the core of this transformation lies adaptive capability. <span className="te
   </div>
   
 </div>
+
 
 
 {/* section 7 */}
