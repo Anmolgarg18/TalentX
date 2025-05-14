@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TalentX/static/css/main.0186b197.css",
-    "main.js": "/TalentX/static/js/main.132b5bbf.js",
+    "main.js": "/TalentX/static/js/main.a9945c63.js",
     "static/js/453.1c889680.chunk.js": "/TalentX/static/js/453.1c889680.chunk.js",
     "static/media/KoPubBatang-Bold.ttf": "/TalentX/static/media/KoPubBatang-Bold.4c97c3dfbc1be034e791.ttf",
     "static/media/KoPubBatang-Regular.ttf": "/TalentX/static/media/KoPubBatang-Regular.df55160607ad187954c5.ttf",
@@ -22,11 +22,11 @@
     "static/media/slick.woff": "/TalentX/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/TalentX/index.html",
     "main.0186b197.css.map": "/TalentX/static/css/main.0186b197.css.map",
-    "main.132b5bbf.js.map": "/TalentX/static/js/main.132b5bbf.js.map",
+    "main.a9945c63.js.map": "/TalentX/static/js/main.a9945c63.js.map",
     "453.1c889680.chunk.js.map": "/TalentX/static/js/453.1c889680.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0186b197.css",
-    "static/js/main.132b5bbf.js"
+    "static/js/main.a9945c63.js"
   ]
 }
